@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2AA198"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+    <Spinner
+        android:id="@+id/distro"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        android:layout_margin="50dp"
+        android:background="@drawable/spinner_background"
+        android:popupBackground="@drawable/spinner_dropdown"
+        android:backgroundTint="#B58900"
+        android:entries="@array/distro"
+        />
+    
+    <Button
+        android:id="@+id/generate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:text="@string/generate"
+        android:onClick="onClickGenerate"
+        android:backgroundTint="#B58900"
+        android:textColor="#FFFFFF"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:elevation="4dp"
+        />
+
+    <TextView
+        android:id="@+id/downloadLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:layout_marginTop="30dp"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:padding="10dp"
+        android:text="@string/downloadLink"
+        android:textColor="#B58900"
+        android:textSize="16sp" />
+
+</LinearLayout>

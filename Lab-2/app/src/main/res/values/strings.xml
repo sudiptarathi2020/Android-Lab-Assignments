@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Lab 2</string>
+    <string name="generate">Generate!</string>
+    <string name="downloadLink">No Distro is selected</string>
+    <string-array name="distro">
+        <item>Ubuntu</item>
+        <item>Fedora</item>
+        <item>Linux Mint</item>
+        <item>Kali Linux</item>
+        <item>Manjaro</item>
+        <item>Lubuntu</item>
+        <item>Arch Linux</item>
+    </string-array>
+</resources>
