@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/university_logo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ju_logo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="Jahangirnagar University Logo"/>
+
+    <TextView
+        android:id="@+id/university_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jahangirnagar University"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_below="@id/university_logo"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+    <ImageView
+        android:id="@+id/student_photo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_below="@id/university_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+
+        android:src="@drawable/myphoto"
+        android:contentDescription="Student Photo"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sudipta Singha"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_below="@id/student_photo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/roll_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Student Roll Number: roll"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_below="@id/name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/batch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Batch: batch"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_below="@id/roll_number"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Department: Computer Science &amp; Engineering"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_below="@id/batch"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:id="@+id/blood_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Blood Group: A+"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:layout_below="@id/department"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+    <ImageView
+        android:id="@+id/signature"
+        android:layout_width="160dp"
+        android:layout_height="80dp"
+        android:layout_below="@id/blood_group"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/signature"
+        android:contentDescription="Signature"/>
+
+    <TextView
+        android:id="@+id/signature_caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Signature"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:layout_below="@id/signature"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+</RelativeLayout>
