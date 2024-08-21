@@ -6,19 +6,16 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
-This Android project demonstrates the use of a Spinner, Button, and TextView to create an interactive user interface. The Spinner allows users to select an option from a dropdown list, and the Button updates the TextView based on the selected option.
+This Android project demonstrates the use of a Spinner, Button, and TextView to create an interactive user interface. The Spinner allows users to select an linux distribution from a dropdown list, and the Button generates the TextView for download link based on the selected linux distro..
 
 ## Features
 
-- **Spinner**: A dropdown list for selecting an option.
-- **Button**: Triggers an action based on the selected Spinner item.
-- **TextView**: Displays the result or feedback to the user.
+- **Spinner**: A dropdown list for selecting an distibution of linux.
+- **Button**: Generate the download link based on the selected linux distro.
+- **TextView**: Displays the download link for the selected linux distro.
 
 ## Screenshots
 
@@ -32,4 +29,4 @@ This Android project demonstrates the use of a Spinner, Button, and TextView to 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/sudiptarathi2020/Android-Lab-Assignments.git
