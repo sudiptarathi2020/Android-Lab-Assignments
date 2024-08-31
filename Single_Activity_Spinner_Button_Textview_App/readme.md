@@ -22,5 +22,5 @@
 <h2 id="installation">Installation</h2>
 <ol>
 <li><strong>Clone the repository</strong>:
-<pre><code>git clone https://github.com/yourusername/android-studio-projects.git</code></pre>
+<pre><code>git clone https://github.com/sudiptarathi2020/Android-Lab-Assignments.git</code></pre>
 </ol>
