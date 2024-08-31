@@ -16,9 +16,9 @@
 </ul>
 <h2 id="screenshots">Screenshots</h2>
 <h3 id="main-screen-activity-1-input-">Main Screen (Activity 1 - Input)</h3>
-<p><img src="screenshot1.jpg" alt="Main Screen"></p>
+<p><img src="mainpage.png" alt="Main Screen" width="300px" height="600px"></p>
 <h3 id="linux-distribution-info-activity-2-display-">Linux Distribution Info (Activity 2 - Display)</h3>
-<p><img src="screenshot2.jpg" alt="Linux Distribution Info"></p>
+<p><img src="secondpage.png" alt="Linux Distribution Info" width="300px" height="600px"></p>
 
 <h2 id="installation">Installation</h2>
 <p>To run any project locally, follow these steps:</p>
