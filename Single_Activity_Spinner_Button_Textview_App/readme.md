@@ -16,9 +16,9 @@
 </ul>
 <h2 id="screenshots">Screenshots</h2>
 <h3 id="main-screen">Main Screen</h3>
-<p><img src="screenshot1.jpg" alt="Main Screen"></p>
+<p><img src="screenshot1.jpg" alt="Main Screen" width="300px" height="400px"></p>
 <h3 id="interaction-example">Interaction Example</h3>
-<p><img src="screenshot2.jpg" alt="Interaction Example"></p>
+<p><img src="screenshot2.jpg" alt="Interaction Example" width="300px" height="400px"></p>
 <h2 id="installation">Installation</h2>
 <ol>
 <li><strong>Clone the repository</strong>:
