@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab-3</string>
+    <string name="app_name">Distros</string>
     <string name="hint">Enter a linux distribution name</string>
     <string name="information">Get information</string>
     <string name="linux_distro_information">Linux Distro Information</string>

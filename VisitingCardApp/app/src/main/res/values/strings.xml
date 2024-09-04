@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Visiting Card App</string>
+    <string name="name">Sudipta Singha</string>
+    <string name="your_photo">my_photo</string>
+    <string name="role">Software Developer</string>
+    <string name="University_Name">Jahangirnagar University</string>
+    <string name="Blood_Group">Blood Group: A+</string>
+    <string name="phone">+88 01746-579-065</string>
+    <string name="mail">sudiptasinha1999@gmail.com</string>
+    <string name="website">https://www.github.com/sudiptarathi2020</string>
+    <string name="whatsapp">+8801746-579-065</string>
+</resources>
