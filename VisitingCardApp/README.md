@@ -9,9 +9,9 @@
 <p>This android app demonstrates the use of dual activity.In this app I created my visiting card.If I click on to my contact details it will redirect to respective apps for contacting with me.</p>
 <h2 id="features">Features</h2>
 <h2 id="screenshots">Screenshots</h2>
-<h3 id="main-screen-activity-1-input-">Main Screen (Activity 1 - Input)</h3>
+<h3 id="main-screen-activity-1-input-">Main Id Card Page</h3>
 <p><img src="mainpage.png" alt="Main Screen" width="300px" height="600px"></p>
-<h3 id="linux-distribution-info-activity-2-display-">Linux Distribution Info (Activity 2 - Display)</h3>
+<h3 id="linux-distribution-info-activity-2-display-">If clicked on the phone icon it will redirect to phone app</h3>
 <p><img src="phonepage.png" alt="Linux Distribution Info" width="300px" height="600px"></p>
 
 <h2 id="installation">Installation</h2>
