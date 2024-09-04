@@ -36,6 +36,9 @@
 <p>
 This Android application demonstrates the use of two Activities. The first Activity includes a text input field where users can enter the name of a Linux distribution. Once the user submits the input, the app navigates to a second Activity, which displays detailed information about the selected Linux distribution.
 </p>
+<h3>4. Personalized Visiting Card App</h3>
+<p>
+This android app demonstrates the use of dual activity.In this app I created my visiting card.If I click on to my contact details it will redirect to respective apps for contacting with me.</p>
 
 <!-- Add more projects as needed -->
 
